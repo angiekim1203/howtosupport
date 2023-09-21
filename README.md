@@ -1,1 +1,3 @@
 # howtosupport
+
+<!doctype HTML>
