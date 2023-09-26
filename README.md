@@ -3,6 +3,7 @@
 ##### By Angie Kim
 
 ### Support Champions
+> [List of Support Champions](url add later)
 Support champions are typically divided into three categories: Enchanters, Pokes, and Tanks.
 
 #### Enchanters
