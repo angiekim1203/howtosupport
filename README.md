@@ -2,7 +2,6 @@
 
 ##### By Angie Kim
 \
-\
 ### Support Champions
 Support champions are typically divided into three categories: Enchanters, Pokes, and Tanks.
 > [List of Support Champions](url add later)
@@ -14,8 +13,7 @@ Support champions are typically divided into three categories: Enchanters, Pokes
 > Pokes typically assist through dealing **damage** to the other team's champions, typically purchasing damage items as a result. Skill ranges of Pokes typically exceed 800 range.
 
 #### Tanks
-> Tanks typically have large focus in **tank** stats (Armor, Magic Armor, and Health), their skills also being oriented around self-shield or CCs. Auto ranges of Tanks typically are under 250 range.
-\
+> Tanks typically have a large focus on **tank** stats (Armor, Magic Armor, and Health), their skills also being oriented around self-shield or CCs. Auto ranges of Tanks typically are under 250 range.
 \
 ### Support Starting Items
 You are able to choose between two kinds of support items at the beginning, each kind having one for AP-based damage and AD-based damage. **All support items only stack up to 1,000 gold.**
@@ -30,13 +28,12 @@ You are able to choose between two kinds of support items at the beginning, each
 > Minion-based support items are most often used by tanks (short-range).
 ![Relic Shield and Steel Shoulderguards](url of image here)
 \
-\
 ### Support Items
 As supports earn gold throughout the game, they tend to purchase items that are indicated for their purchase, typically being cheaper than other items.
 > [List of Support Items](url add later)
 
 #### Enchanter Items
-> Enchanter items typically consists of abilities that are able to amplify or boost the damage of the team's champions alongside strengthening the power of their shields and healing.
+> Enchanter items typically consist of abilities that are able to amplify or boost the damage of the team's champions alongside strengthening the power of their shields and healing.
 > 
 > **Example**: "Staff of Flowing Water" grants the owner of the item AP stats and shield/healing amplification. When a shield or heal is casted on an ally champion, the ally champion and the caster both obtain extra AP and Ability Haste.
 
