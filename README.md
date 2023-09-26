@@ -44,9 +44,17 @@ As supports earn gold throughout the game, they tend to purchase items that are 
 > **Example**: "Staff of Flowing Water" grants the owner of the item AP stats and shield/healing amplification. When a shield or heal is casted on an ally champion, the ally champion and the caster both obtain extra AP and Ability Haste.
 
 #### Poke Items
-> Poke items are typically the items that the DPS would purchase, typically being more expensive than the support items.
+> Poke items are  the items that the DPS would purchase, typically being more expensive than the support items. They are not listed in the link above.
 >
 > **Example**: "Luden's Tempest" grants the owner large amounts of AP stats while granting extra damage passives for an attack, the cooldown being 10 seconds each time.
 
 #### Tank Items
-> 
+> Tank items grant the owner abilities to either tank more damage or to protect allied champions alongside granting tank stats.
+>
+> **Example**: "Locket of the Iron Solari" grants nearby allies damage reduction, and when casted, it grants a shield to these nearby allies.
+
+<p>&nbsp;  </p>
+
+### Wards
+When support starting items are upgraded, they allow you to store up to four wards. These wards, when placed in game, grant vision even without a champion being in the area. One of the main roles of a support is to maintain vision throughout the map.
+
