@@ -1,8 +1,8 @@
 # How to Support
 
 ##### By Angie Kim
-
-
+\
+\
 ### Support Champions
 Support champions are typically divided into three categories: Enchanters, Pokes, and Tanks.
 > [List of Support Champions](url add later)
@@ -15,9 +15,8 @@ Support champions are typically divided into three categories: Enchanters, Pokes
 
 #### Tanks
 > Tanks typically have large focus in **tank** stats (Armor, Magic Armor, and Health), their skills also being oriented around self-shield or CCs. Auto ranges of Tanks typically are under 250 range.
-
-
-
+\
+\
 ### Support Starting Items
 You are able to choose between two kinds of support items at the beginning, each kind having one for AP-based damage and AD-based damage. **All support items only stack up to 1,000 gold.**
 
@@ -30,9 +29,8 @@ You are able to choose between two kinds of support items at the beginning, each
 > These allow you to execute minions, earning gold according to the cost of the minion executed. This effect stacks up to 3 times.
 > Minion-based support items are most often used by tanks (short-range).
 ![Relic Shield and Steel Shoulderguards](url of image here)
-
-
-
+\
+\
 ### Support Items
 As supports earn gold throughout the game, they tend to purchase items that are indicated for their purchase, typically being cheaper than other items.
 > [List of Support Items](url add later)
@@ -43,6 +41,11 @@ As supports earn gold throughout the game, they tend to purchase items that are 
 > **Example**: "Staff of Flowing Water" grants the owner of the item AP stats and shield/healing amplification. When a shield or heal is casted on an ally champion, the ally champion and the caster both obtain extra AP and Ability Haste.
 
 #### Poke Items
-
+> Poke items are typically the items that the DPS would purchase, typically being more expensive than the support items.
+>
+> **Example**: "Luden's Tempest" grants 
 
 #### Tank Items
+
+\
+\
