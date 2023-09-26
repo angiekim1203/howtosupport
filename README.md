@@ -1,6 +1,8 @@
 # How to Support
 
 ##### By Angie Kim
+ 
+ 
 ### Support Champions
 Support champions are typically divided into three categories: Enchanters, Pokes, and Tanks.
 > [List of Support Champions](https://leagueoflegends.fandom.com/wiki/Category:Support_champion)
@@ -13,7 +15,8 @@ Support champions are typically divided into three categories: Enchanters, Pokes
 
 #### Tanks
 > Tanks typically have a large focus on **tank** stats (Armor, Magic Armor, and Health), their skills also being oriented around self-shield or CCs. Auto ranges of Tanks typically are under 250 range.
-\
+ 
+ 
 ### Support Starting Items
 You are able to choose between two kinds of support items at the beginning, each kind having one for AP-based damage and AD-based damage. **All support items only stack up to 1,000 gold.**
 
@@ -26,7 +29,8 @@ You are able to choose between two kinds of support items at the beginning, each
 > These allow you to execute minions, earning gold according to the cost of the minion executed. This effect stacks up to 3 times.
 > Minion-based support items are most often used by tanks (short-range).
 ![Relic Shield and Steel Shoulderguards](url of image here)
-\
+
+ 
 ### Support Items
 As supports earn gold throughout the game, they tend to purchase items that are indicated for their purchase, typically being cheaper than other items.
 > [List of Support Items](url add later)
@@ -43,5 +47,5 @@ As supports earn gold throughout the game, they tend to purchase items that are 
 
 #### Tank Items
 
-\
-\
+ 
+
