@@ -4,7 +4,7 @@
 \
 ### Support Champions
 Support champions are typically divided into three categories: Enchanters, Pokes, and Tanks.
-> [List of Support Champions](url add later)
+> [List of Support Champions](https://leagueoflegends.fandom.com/wiki/Category:Support_champion)
 
 #### Enchanters
 > Enchanters are AP-based champions that typically have skills that are able to **assist** their team, including shields, heals, and CCs. Auto ranges of Enchanters typically exceed 450 range.
