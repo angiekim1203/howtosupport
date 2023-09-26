@@ -1,7 +1,6 @@
 # How to Support
 
 ##### By Angie Kim
-\
 ### Support Champions
 Support champions are typically divided into three categories: Enchanters, Pokes, and Tanks.
 > [List of Support Champions](https://leagueoflegends.fandom.com/wiki/Category:Support_champion)
