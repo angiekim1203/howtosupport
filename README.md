@@ -1,7 +1,10 @@
 # How to Support
-
-##### By Angie Kim
  
+<p>&nbsp;  </p>
+
+### Introduction
+Support is a role where, as the name states, the intention is to support the team through assisting the team and obtaining vision. The game begins by standing in the **Bottom Lane** alongside the AD Carry, which the goal of the laning phase is to finish the support item and win lane through kills of minion advantage of the ADC.
+
 <p>&nbsp;  </p>
 
 ### Support Champions
@@ -55,6 +58,22 @@ As supports earn gold throughout the game, they tend to purchase items that are 
 
 <p>&nbsp;  </p>
 
-### Wards
+### Vision
 When support starting items are upgraded, they allow you to store up to four wards. These wards, when placed in game, grant vision even without a champion being in the area. One of the main roles of a support is to maintain vision throughout the map.
+In order to maintain vision, your goal is to obtain as much vision while simultaneously removing vision of the other team.
 
+#### Types of Vision Items
+> **Stealth Ward**: The most commonly-used kind of ward, having three health. Grants sight over 1,100 units, revealing for 90-120 seconds depending on champion's level.
+> **Control Ward**: Can be purchased with 75 gold each, holding up to two at a time. They are visible by sight but also reveals camouflaged units and invisible traps or wards, lasting for an unlimited amount of time. Control wards have four health each.
+> **Farsight Alternation**: Can be placed from far away, granting sight over 500 units. They have one health each but lasts for an unlimited amount of time until broken.
+> **Oracle Lens**: Drone summoned sweeps surrounding areas, detecting all units within its detection radius. All unseen units can be detected, including enemy wards.
+
+<p>&nbsp;  </p>
+
+### Roaming
+As the support is not obligated to stay in lane and kill minions, when there is a turn, or time, left over, you are able to go aroudn the map to assist team members. This is called **roaming**, which typically, supports will roam in the lower half of the map between middle lane and bottom lane. Through this action, the goal is to obtain vision, kill enemy champions, go around with the jungle champion, or assist in killing epic monsters such as Dragons, Rift Herald, and Baron Nashor.
+> **Disclaimer**: The timing of roaming is important, as when the support roams at the wrong time, the loss of the AD carry on the team would happen. This often leads into a loss in laning phase or an angry AD carry on your team.
+
+<p>&nbsp;  </p>
+
+### Thank you for reading and good luck on your journey as a support player!
