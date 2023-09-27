@@ -64,15 +64,18 @@ In order to maintain vision, your goal is to obtain as much vision while simulta
 
 #### Types of Vision Items
 > **Stealth Ward**: The most commonly-used kind of ward, having three health. Grants sight over 1,100 units, revealing for 90-120 seconds depending on champion's level.
+> 
 > **Control Ward**: Can be purchased with 75 gold each, holding up to two at a time. They are visible by sight but also reveals camouflaged units and invisible traps or wards, lasting for an unlimited amount of time. Control wards have four health each.
+> 
 > **Farsight Alternation**: Can be placed from far away, granting sight over 500 units. They have one health each but lasts for an unlimited amount of time until broken.
+> 
 > **Oracle Lens**: Drone summoned sweeps surrounding areas, detecting all units within its detection radius. All unseen units can be detected, including enemy wards.
 
 <p>&nbsp;  </p>
 
 ### Roaming
 As the support is not obligated to stay in lane and kill minions, when there is a turn, or time, left over, you are able to go aroudn the map to assist team members. This is called **roaming**, which typically, supports will roam in the lower half of the map between middle lane and bottom lane. Through this action, the goal is to obtain vision, kill enemy champions, go around with the jungle champion, or assist in killing epic monsters such as Dragons, Rift Herald, and Baron Nashor.
-> **Disclaimer**: The timing of roaming is important, as when the support roams at the wrong time, the loss of the AD carry on the team would happen. This often leads into a loss in laning phase or an angry AD carry on your team.
+> **Disclaimer**: The timing of roaming is important, as when the support roams at the wrong time, the loss of the AD carry on the team would happen. This often leads into a **loss in laning phase** or an **angry teammate**.
 
 <p>&nbsp;  </p>
 
