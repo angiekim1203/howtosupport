@@ -3,7 +3,7 @@
 <p>&nbsp;  </p>
 
 ### Introduction
-Support is a role where, as the name states, the intention is to support the team through assisting the team and obtaining vision. The game begins by standing in the **Bottom Lane** alongside the AD Carry, which the goal of the laning phase is to finish the support item and win lane through kills of minion advantage of the ADC.
+Support is a role where, as the name states, the intention is to support the team through assisting the team and obtaining vision. The game begins by standing in the **Bottom Lane** alongside the AD Carry, which the goal of the laning phase is to finish the support item and win lane through kills or the minion advantage of the ADC.
 
 <p>&nbsp;  </p>
 
