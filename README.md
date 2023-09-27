@@ -57,7 +57,7 @@ As supports earn gold throughout the game, they tend to purchase items that are 
 <p>&nbsp;  </p>
 
 ### Vision
-When support starting items are upgraded, they allow you to store up to four wards. These wards, when placed in game, grant vision even without a champion being in the area. One of the main roles of a support is to maintain vision throughout the map.
+When support starting items are upgraded, they allow you to store up to four stealth wards. These wards, when placed in game, grant vision even without a champion being in the area. One of the main roles of a support is to maintain vision throughout the map.
 In order to maintain vision, your goal is to obtain as much vision while simultaneously removing vision of the other team.
 
 #### Types of Vision Items
@@ -67,7 +67,7 @@ In order to maintain vision, your goal is to obtain as much vision while simulta
 > 
 > **Farsight Alternation**: Can be placed from far away, granting sight over 500 units. They have one health each but lasts for an unlimited amount of time until broken.
 > 
-> **Oracle Lens**: Drone summoned sweeps surrounding areas, detecting all units within its detection radius. All unseen units can be detected, including enemy wards.
+> **Oracle Lens**: Drone summoned sweeps surrounding areas for 6 seconds, detecting all units within its detection radius. All unseen units can be detected, including enemy wards. Oracles Lens can store up to two at a time.
 
 <p>&nbsp;  </p>
 
@@ -77,4 +77,4 @@ As the support is not obligated to stay in lane and kill minions, when there is 
 
 <p>&nbsp;  </p>
 
-### Thank you for reading and good luck on your journey as a support player!
+#### Thank you for reading and good luck on your journey as a support player!
