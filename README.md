@@ -61,13 +61,13 @@ When support starting items are upgraded, they allow you to store up to four ste
 In order to maintain vision, your goal is to obtain as much vision while simultaneously removing vision of the other team.
 
 #### Types of Vision Items
-> 1. **Stealth Ward**: The most commonly-used kind of ward, having three health. Grants sight over 1,100 units, revealing for 90-120 seconds depending on champion's level.
-> 
-> 2. **Control Ward**: Can be purchased with 75 gold each, holding up to two at a time. They are visible by sight but also reveals camouflaged units and invisible traps or wards, lasting for an unlimited amount of time. Control wards have four health each.
-> 
-> 3. **Farsight Alternation**: Can be placed from far away, granting sight over 500 units. They have one health each but lasts for an unlimited amount of time until broken.
-> 
-> 4. **Oracle Lens**: Drone summoned sweeps surrounding areas for 6 seconds, detecting all units within its detection radius. All unseen units can be detected, including enemy wards. Oracles Lens can store up to two at a time.
+1. **Stealth Ward**: The most commonly-used kind of ward, having three health. Grants sight over 1,100 units, revealing for 90-120 seconds depending on champion's level.
+
+2. **Control Ward**: Can be purchased with 75 gold each, holding up to two at a time. They are visible by sight but also reveals camouflaged units and invisible traps or wards, lasting for an unlimited amount of time. Control wards have four health each.
+
+3. **Farsight Alternation**: Can be placed from far away, granting sight over 500 units. They have one health each but lasts for an unlimited amount of time until broken.
+
+4. **Oracle Lens**: Drone summoned sweeps surrounding areas for 6 seconds, detecting all units within its detection radius. All unseen units can be detected, including enemy wards. Oracles Lens can store up to two at a time.
 
 <p>&nbsp;  </p>
 
