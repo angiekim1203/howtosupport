@@ -26,7 +26,6 @@ You are able to choose between two kinds of support items at the beginning, each
 #### Spelltheif's Edge (AP) / Spectral Sickle (AD)
 > These allow you to earn 20 gold every time you **damage an enemy champion**. This effect stacks up to 3 times.
 > Damage-based support items are most often used by enchanters and poke-based champions (long-range).
-
 ![Spelltheif's Edge and Spectral Sickle](dmgsupitems.png "Damage-Based Support Starting Items")
 
 #### Relic Shield (AP) / Steel Shoulderguards (AD)
@@ -62,13 +61,13 @@ When support starting items are upgraded, they allow you to store up to four ste
 In order to maintain vision, your goal is to obtain as much vision while simultaneously removing vision of the other team.
 
 #### Types of Vision Items
-> **Stealth Ward**: The most commonly-used kind of ward, having three health. Grants sight over 1,100 units, revealing for 90-120 seconds depending on champion's level.
+> 1. **Stealth Ward**: The most commonly-used kind of ward, having three health. Grants sight over 1,100 units, revealing for 90-120 seconds depending on champion's level.
 > 
-> **Control Ward**: Can be purchased with 75 gold each, holding up to two at a time. They are visible by sight but also reveals camouflaged units and invisible traps or wards, lasting for an unlimited amount of time. Control wards have four health each.
+> 2. **Control Ward**: Can be purchased with 75 gold each, holding up to two at a time. They are visible by sight but also reveals camouflaged units and invisible traps or wards, lasting for an unlimited amount of time. Control wards have four health each.
 > 
-> **Farsight Alternation**: Can be placed from far away, granting sight over 500 units. They have one health each but lasts for an unlimited amount of time until broken.
+> 3. **Farsight Alternation**: Can be placed from far away, granting sight over 500 units. They have one health each but lasts for an unlimited amount of time until broken.
 > 
-> **Oracle Lens**: Drone summoned sweeps surrounding areas for 6 seconds, detecting all units within its detection radius. All unseen units can be detected, including enemy wards. Oracles Lens can store up to two at a time.
+> 4. **Oracle Lens**: Drone summoned sweeps surrounding areas for 6 seconds, detecting all units within its detection radius. All unseen units can be detected, including enemy wards. Oracles Lens can store up to two at a time.
 
 <p>&nbsp;  </p>
 
