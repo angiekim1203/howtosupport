@@ -26,7 +26,7 @@ You are able to choose between two kinds of support items at the beginning, each
 #### Spelltheif's Edge (AP) / Spectral Sickle (AD)
 > These allow you to earn 20 gold every time you **damage an enemy champion**. This effect stacks up to 3 times.
 > Damage-based support items are most often used by enchanters and poke-based champions (long-range).
-![Spelltheif's Edge and Spectral Sickle](/asset/dmgsupitems.png "Damage-Based Support Starting Items")
+![Spelltheif's Edge and Spectral Sickle](/images/dmgsupitems.png "Damage-Based Support Starting Items")
 
 #### Relic Shield (AP) / Steel Shoulderguards (AD)
 > These allow you to **execute minions**, earning gold according to the cost of the minion executed. This effect stacks up to 3 times.
