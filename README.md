@@ -32,7 +32,7 @@ You are able to choose between two kinds of support items at the beginning, each
 #### Relic Shield (AP) / Steel Shoulderguards (AD)
 > These allow you to **execute minions**, earning gold according to the cost of the minion executed. This effect stacks up to 3 times.
 > Minion-based support items are most often used by tanks (short-range).
-![Relic Shield and Steel Shoulderguards](url of image here)
+![Relic Shield and Steel Shoulderguards](tanksupitems.png "Tank-Based Support Starting Items")
 
 <p>&nbsp;  </p>
  
